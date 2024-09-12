@@ -12,6 +12,8 @@
 2. [Commands And Related](#commands-and-related)
    1. [Intial Setup](#intial-setup)
 3. [Errors Encoutered](#errors-encoutered)
+4. [Docker Commands](#docker-commands)
+   1. [Docker remove and prune all](#docker-remove-and-prune-all)
 
 # startocyberlab Directory
 
@@ -62,3 +64,15 @@ Error: failed to start containers: 92657f04c4b2384a9a9625b7c5869c32395aa459a25b7
 
 - The issue is the default port binding to `2222` this has to be changed
 - So you have to now build the containers using another port
+
+# Docker Commands
+
+1. Docker command which are being used for fixing the stratocyberlab image
+
+## Docker remove and prune all
+
+- Remove all images and volumes to start over
+
+```docker
+docker system prune -af --volumes
+```
