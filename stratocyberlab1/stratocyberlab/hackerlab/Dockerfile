@@ -16,4 +16,6 @@ COPY config/banner /etc/banner
 
 RUN echo "root:ByteThem123" | chpasswd
 
-CMD ["/usr/sbin/sshd", "-D"]
+EXPOSE 2223
+
+CMD ["/usr/sbin/sshd", "-D", "-p", "2223"]
