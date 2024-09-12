@@ -1,0 +1,14 @@
+version: '3.3'
+
+services:
+  example-class-02:
+    build: .
+    stop_grace_period: 0s
+    container_name: example-class-02
+    networks:
+      playground-net:
+        ipv4_address: 172.20.0.88
+
+networks:
+  playground-net:
+    external: true
