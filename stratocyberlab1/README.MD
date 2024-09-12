@@ -17,6 +17,8 @@
    1. [Fixes](#fixes)
 4. [Docker Commands](#docker-commands)
    1. [Docker remove and prune all](#docker-remove-and-prune-all)
+5. [Connection Commands](#connection-commands)
+   1. [Check for all listening ports](#check-for-all-listening-ports)
 
 # startocyberlab Directory
 
@@ -97,4 +99,14 @@ hackerlab:
 
 ```docker
 docker system prune -af --volumes
+```
+
+# Connection Commands
+
+- Commands for testing connection and servers etc
+
+## Check for all listening ports
+
+```sh
+netstat -an | listen
 ```
