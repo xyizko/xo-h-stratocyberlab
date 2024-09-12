@@ -12,6 +12,7 @@
 2. [Commands And Related](#commands-and-related)
    1. [Intial Setup](#intial-setup)
 3. [Errors Encoutered](#errors-encoutered)
+   1. [Fixes](#fixes)
 4. [Docker Commands](#docker-commands)
    1. [Docker remove and prune all](#docker-remove-and-prune-all)
 
@@ -62,8 +63,27 @@ ollama/ollama              latest    6e25f8e9f732   4 days ago      2.09GB
 Error: failed to start containers: 92657f04c4b2384a9a9625b7c5869c32395aa459a25b7db19adfe4554334b50e
 ```
 
+## Fixes
+
+1. The main issue is that port `2222` is already being used by a process which you dont have access to, so this needs to be changed. It can be done as follows by adding it to the [`docker-compose.yml`](./stratocyberlab/docker-compose.yml)
+
 - The issue is the default port binding to `2222` this has to be changed
 - So you have to now build the containers using another port
+
+```docker
+hackerlab:
+    build: ./hackerlab
+    container_name: hackerlab
+    hostname: hackerlab
+    restart: always
+    ports:
+      - "2223-2225:22-24"
+    networks:
+      playground-net:
+        ipv4_address: 172.20.0.2
+```
+
+- Unde the `ports` note you are defining a new range now
 
 # Docker Commands
 
