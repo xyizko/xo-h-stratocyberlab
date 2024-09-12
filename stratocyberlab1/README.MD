@@ -2,9 +2,11 @@
 
 ---
 
-<a href="https://cybersecurity.bsy.fel.cvut.cz/" target="_blank">
-<img src="https://cybersecurity.bsy.fel.cvut.cz/images/illustration_class_rotated_hu3293537521e43043adfb2a5a2e5511e1_804977_1012x759_resize_q85_h3_lanczos_3.webp" width="200" align="center">
-</a>
+<center>
+  <a href="https://cybersecurity.bsy.fel.cvut.cz/" target="_blank">
+    <img src="https://cybersecurity.bsy.fel.cvut.cz/images/illustration_class_rotated_hu3293537521e43043adfb2a5a2e5511e1_804977_1012x759_resize_q85_h3_lanczos_3.webp" width="200">
+  </a>
+</center>
 
 ---
 
