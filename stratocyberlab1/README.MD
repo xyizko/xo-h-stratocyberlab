@@ -1,6 +1,15 @@
+<h1 align="center"><code>StratoCyberLab Range</code></h1>
+
+---
+
+<img src="https://cybersecurity.bsy.fel.cvut.cz/images/illustration_class_rotated_hu3293537521e43043adfb2a5a2e5511e1_804977_1012x759_resize_q85_h3_lanczos_3.webp" width="200" align="center">
+
+---
+
 1. [startocyberlab Directory](#startocyberlab-directory)
 2. [Commands And Related](#commands-and-related)
    1. [Intial Setup](#intial-setup)
+3. [Errors Encoutered](#errors-encoutered)
 
 # startocyberlab Directory
 
@@ -35,3 +44,5 @@ stratocyberlab-hackerlab   latest    c5b85ef0a846   4 minutes ago   847MB
 stratocyberlab-dashboard   latest    3bf7016a8905   5 minutes ago   646MB
 ollama/ollama              latest    6e25f8e9f732   4 days ago      2.09GB
 ```
+
+# Errors Encoutered
