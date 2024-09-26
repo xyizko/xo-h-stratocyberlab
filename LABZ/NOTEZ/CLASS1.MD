@@ -21,3 +21,9 @@
    1. https://www.picoctf.org/ - Note not advanced challenges 2.https://overthewire.org/wargames/ - Classic WarGames Mentioned here
 
 3.
+
+# Ckass 1 Password 
+
+[![](./gfx/class1.jpg)](https://www.youtube.com/live/ye8lGXTcdCE?si=XTFdvivysrR5vEkS)
+
+[`YoutubeStreamLocation`](https://www.youtube.com/live/ye8lGXTcdCE?si=XTFdvivysrR5vEkS) - TimeStamp - `-4:45:16`
