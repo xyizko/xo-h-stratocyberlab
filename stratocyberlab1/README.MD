@@ -22,6 +22,7 @@
    1. [Docker remove and prune all](#docker-remove-and-prune-all)
 5. [Connection Commands](#connection-commands)
    1. [Check for all listening ports](#check-for-all-listening-ports)
+6. [DOCKER is beign updated](#docker-is-beign-updated)
 
 # startocyberlab Directory
 
@@ -185,3 +186,7 @@ docker system prune -af --volumes
 ```sh
 netstat -an | listen
 ```
+
+# DOCKER is beign updated
+
+1. Whenever its updated you need to fork it and then run it
