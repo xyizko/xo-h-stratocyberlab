@@ -1,9 +1,7 @@
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/xyizko/xo-tagz/refs/heads/main/gfx/s.png">
-</p>
+<p align="center"><a href="https://x.com/xyizko" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/xyizko/xo-tagz/refs/heads/main/gfx/s.png"></a></p>
 
-![](./gfx/X.webp)
+[![](./gfx/X.webp)](https://youtu.be/rxziz-IcBKQ?feature=shared)
 
 <h1 align="center"><code>xo-h-stratocyberlab</code></h1>
 <h2 align="center"><i>Work for startocyberlab</i></h2>
