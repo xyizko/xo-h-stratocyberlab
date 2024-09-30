@@ -1,4 +1,9 @@
-## ![](./gfx/x.jpeg)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/xyizko/xo-tagz/refs/heads/main/gfx/s.png">
+</p>
+
+![](./gfx/X.webp)
 
 <h1 align="center"><code>xo-h-stratocyberlab</code></h1>
 <h2 align="center"><i>Work for startocyberlab</i></h2>
