@@ -22,8 +22,9 @@
 
 3.
 
-# Ckass 1 Password 
+# Password List 
 
-[![](./gfx/class1.jpg)](https://www.youtube.com/live/ye8lGXTcdCE?si=XTFdvivysrR5vEkS)
-
-[`YoutubeStreamLocation`](https://www.youtube.com/live/ye8lGXTcdCE?si=XTFdvivysrR5vEkS) - TimeStamp - `-4:45:16`
+Class | Password 
+--- | ---
+Class 1 | `minosculo`
+Class 2 | `handkerchef`
