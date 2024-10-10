@@ -1,6 +1,11 @@
-1. [Thu Sep 26 13:34:53 UTC 2024](#thu-sep-26-133453-utc-2024)
-2. [CLASS 1 MD](#class-1-md)
-3. [Password List](#password-list)
+
+# What ?
+
+1. Random class note setc
+
+1. [What ?](#what-)
+2. [Thu Sep 26 13:34:53 UTC 2024](#thu-sep-26-133453-utc-2024)
+3. [CLASS 1 MD](#class-1-md)
 
 ---
 
@@ -21,11 +26,3 @@
 
    1. https://www.picoctf.org/ - Note not advanced challenges 2.https://overthewire.org/wargames/ - Classic WarGames Mentioned here
 
-3.
-
-# Password List 
-
-Class | Password 
---- | ---
-Class 1 | `minosculo`
-Class 2 | `handkerchef`
