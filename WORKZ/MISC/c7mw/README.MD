@@ -22,7 +22,13 @@ wget --no-check-certificate
 "https://docs.google.com/uc?export=download&id=1gZo-841lZ83Lb8 
 qYKGpoMZH1VhSL92EB" -O suspiciousfile 
 ```
-4. The compressed version of the malware - [`f.tar.xz`](./f.tar.xz).
+4. The compressed version of the malware - [`f.tar.xz`](./f.tar.xz). 
+   1. WARNING - Do not Execute on your main machine, use a container or testing environment 
+   2. Decompress File - 
+```sh 
+# Linux Environment
+tar -xvf f.tar.xz
+```
 
 # Analaysis 
 
@@ -30,6 +36,17 @@ qYKGpoMZH1VhSL92EB" -O suspiciousfile
 
 This is the summary of the findings 
 
+Type | Description 
+---  | --- 
+OS | Linux Binary 
+Behavior | Information Gathering , Network Operation, Non Propagating
+Encryption | None - Contents of the binary are unencrypted indicating no usage of any packers or crypters
+
 ### Static Analysis 
+
+Interesting information found within the binary 
+
+1. IP address - `139.59.213.4` 
+   1. This was actually encoded 
 
 
