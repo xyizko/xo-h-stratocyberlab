@@ -16,4 +16,5 @@ Class 4 | `OSTRICH` | [`-3:13:46`](https://www.youtube.com/live/HShkFvjHPjw?si=r
 Class 5 | `BYTEFLIP` | 
 Class 6 | `HACKTOOL` |
 Class 7 | `FIREWALL` |
+Class 8 | `BOTTBASH` |
 
