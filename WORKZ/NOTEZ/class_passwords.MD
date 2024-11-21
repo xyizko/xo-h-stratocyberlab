@@ -17,4 +17,5 @@ Class 5 | `BYTEFLIP` |
 Class 6 | `HACKTOOL` |
 Class 7 | `FIREWALL` |
 Class 8 | `BOTTBASH` |
+Class 9 | `SPACE JAM`|
 
