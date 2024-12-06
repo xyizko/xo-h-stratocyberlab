@@ -19,4 +19,5 @@ Class 7 | `FIREWALL` |
 Class 8 | `BOTTBASH` |
 Class 9 | `SPACE JAM`|
 Class 10 | `CLICK BIT`|
+Class 11 | `DATADROP` |
 
