@@ -20,4 +20,5 @@ Class 8 | `BOTTBASH` |
 Class 9 | `SPACE JAM`|
 Class 10 | `CLICK BIT`|
 Class 11 | `DATADROP` |
+Class 12 | `PINGPONG` |
 
